@@ -2,5 +2,5 @@
 hm ruby ?
 # install :?
 ``
-sudo apt install yt-dlp ffmpeg && ruby badapple.rb
+sudo apt install yt-dlp ffmpeg && dotnet fsi badapple.fsx
 ``
